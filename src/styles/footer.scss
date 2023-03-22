@@ -1,0 +1,23 @@
+footer {
+  margin: 10rem;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+
+  .social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+
+    cursor: pointer;
+  }
+
+  p {
+    font-size: 0.6rem;
+    color: rgba($color: #fff, $alpha: 0.6);
+  }
+}
