@@ -35,7 +35,7 @@ Creare un file .env dove inserire la key per la TMDb API con il nome di VITE_API
 
 ```
 
-VITE_API_KEY: <LA_TUA_KAY>
+VITE_API_KEY: <LA_TUA_KEY>
 
 ```
 ...oppure sostituire manualmente ogni istanza della key, dentro ai custom hooks.
